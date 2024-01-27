@@ -12,6 +12,15 @@ read num1
 
 echo "Enter the second number:"
 read num2
+echo "hello"
+echo "how are you guys"
+
+
+
+
+
+
+
 
 # Add the two numbers
 sum=$((num1 + num2))
