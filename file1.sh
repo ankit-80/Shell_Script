@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hello
 how are you 
 i am good and you?
@@ -16,9 +16,11 @@ echo "hello"
 echo "how are you guys"
 
 
+##1st commit
+echo "hello this is me"
 
 
-
+##2nd commit
 kkkkkkkkkkkkkkkkkkkkkkkkkkk
 letl
 letl
@@ -39,5 +41,8 @@ sum=$((num1 + num2))
 
 # Display the result
 echo "The sum of $num1 and $num2 is: $sum"
->>>>>>> dcd2412b48e1d00244088be751de5b98c9505276
 
+
+=======
+##3rd commit
+ec
