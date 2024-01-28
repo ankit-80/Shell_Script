@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hello
 how are you 
 i am good and you?
@@ -21,7 +21,28 @@ echo "hello this is me"
 
 
 ##2nd commit
-echo "good morning "
+kkkkkkkkkkkkkkkkkkkkkkkkkkk
+letl
+letl
+letl
+llll
+letl
+letl
+letl
+letl
+letl
+let
+let
+let
 
+
+# Add the two numbers
+sum=$((num1 + num2))
+
+# Display the result
+echo "The sum of $num1 and $num2 is: $sum"
+
+
+=======
 ##3rd commit
-echo "we are devops enngg."
+ec
