@@ -22,3 +22,6 @@ echo "hello this is me"
 
 ##2nd commit
 echo "good morning "
+
+##3rd commit
+echo "we are devops enngg."
