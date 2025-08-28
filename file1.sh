@@ -6,7 +6,7 @@ i am good and you?
 
 #!/bin/bash
 
-# Get user input for two numbers
+# Get user input for two numbersgit 
 echo "Enter the first number:"
 read num1
 
@@ -54,3 +54,12 @@ ec
 
 hello this is me
 
+
+this is
+
+
+1
+2
+3
+4
+5
