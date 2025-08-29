@@ -12,6 +12,6 @@ echo "addtion of a & b is $c"
 this is me ankit
 ok 
 ##2nd commit
-echo "we also added this text in program"
+echo "we edited this file"
 
 
