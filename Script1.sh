@@ -5,7 +5,8 @@ echo "Hello, How are you?"
 echo "We are learning Git"
 
 "this line is added from in vs code"
-12
+this is from linux vm
+
 23
 44
 echo "we added this line in that script"
