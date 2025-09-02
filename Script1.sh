@@ -5,6 +5,10 @@ echo "Hello, How are you?"
 echo "We are learning Git"
 
 "this line is added from in vs code"
+added new line 12 34  5 6 
+AWSad
+af
+
 12
 23
 44
