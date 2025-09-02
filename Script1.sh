@@ -4,6 +4,7 @@ echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "We are learning Git"
 
+"this line is added from in vs code"
 12
 23
 44
